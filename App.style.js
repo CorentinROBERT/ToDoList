@@ -15,7 +15,6 @@ const s = StyleSheet.create({
 
   footer: {
     height: 70,
-    backgroundColor: "green",
   },
 
   app: {
